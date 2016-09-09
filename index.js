@@ -4,7 +4,7 @@ variables should be set:
 
 process.env.TWILIO_ACCOUNT_SID
 process.env.TWILIO_API_KEY
-process.env.TWILIO_API_SECRET
+process.env.TWILIO_API_SECRET 
 process.env.TWILIO_IPM_SERVICE_SID
 
 */
